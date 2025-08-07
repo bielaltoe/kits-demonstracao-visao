@@ -1,0 +1,8 @@
+# Bibliotecas essenciais para visão computacional
+opencv-python==4.7.0.72
+mediapipe==0.10.0
+numpy==1.24.3
+
+
+# Bibliotecas para áudio (para o Theremin Virtual)
+pyaudio
