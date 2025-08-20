@@ -1,0 +1,33 @@
+{
+    "broker_uri": "amqp://10.20.5.1:30000",
+    "mapped_area": {
+        "area_id": 0,
+        "area_name": "labvisio",
+        "area_map": {
+            "point_1": {
+                "x": 3.45,
+                "y": 2.4
+            },
+            "point_2": {
+                "x": 3.45,
+                "y": -2.4
+            },
+            "point_3": {
+                "x": -3.95,
+                "y": -2.4
+            },
+            "point_4": {
+                "x": -3.95,
+                "y": 2.4
+            }
+        },
+        "obstacles": {
+            "obstacle_1": {
+                "x_min": -0.6,
+                "x_max": -0.1,
+                "y_min": -0.7,
+                "y_max": -0.1
+            }
+        }
+    }
+}
