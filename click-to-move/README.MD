@@ -1,4 +1,4 @@
-# Click-to-Go - Guia de Execução
+# Click-to-Move - Guia de Execução
 
 Este guia organiza a inicialização do LiDAR/ODrive, Navigation2, Gateway IS-ROS2, Dynamic Follower e o cliente Click-to-Go.
 
