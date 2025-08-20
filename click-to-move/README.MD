@@ -150,3 +150,8 @@ Clique na imagem para enviar o alvo ao robô (coordenada transformada para o mun
 - USB/ODrive: use o container com `--privileged` e o bind de `/dev/bus/usb`.
 - Rede: verifique URIs AMQP e conectividade (porta/host corretos).
 - Client: o broker_uri do config.json é usado para publicar em `ros.skeleton_pose`.
+
+## Repositórios de referência:
+https://github.com/labvisio/navigation2/tree/main
+https://github.com/labvisio/is-ros2-gateway/tree/main
+https://github.com/labvisio/is-robis-ros2/tree/devel
