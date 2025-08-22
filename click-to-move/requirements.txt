@@ -9,9 +9,9 @@ amqp==5.1.1
 protobuf==3.20.3
 
 # Numeric/vision/plot
-numpy~=2.2
+numpy>=1.24
 opencv-python~=4.12.0
 matplotlib~=3.10
-
+sympy
 # matplotlib will pull pillow, python-dateutil, etc., as needed.
 # We avoid PyQt5; client uses TkAgg/Agg or OpenCV HighGUI.
